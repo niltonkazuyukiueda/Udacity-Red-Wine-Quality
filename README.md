@@ -9,5 +9,4 @@ Exploring the red wine dataset by using a variety of plots.
 2. run the "redwine_final.rmd" in R
 
 ## Software and library requirement:
-_R_,   
-_ggplot2_, _GGally_, _scales_, _memisc_, _lattice_, _MASS_,  _gridExtra_,  _dplyr_, _reshape_
+_R_, _ggplot2_, _GGally_, _scales_, _memisc_, _lattice_, _MASS_,  _gridExtra_,  _dplyr_, _reshape_
